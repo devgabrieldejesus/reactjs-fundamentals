@@ -7,7 +7,7 @@ _English_
 In this challenge, I had to continue developing the transaction management application, GoFinances.
 The objective was to practice what I had learned so far in React.js together with TypeScript, using routes and sending files by form.
 
-This was an application that had to connect to my Challenge 06 backend, and display the created transactions and allow the import of a CSV file to generate new records in the database.
+This was an application that had to connect to my [Challenge 06](https://github.com/devgabrieldejesus/database-upload) backend, and display the created transactions and allow the import of a CSV file to generate new records in the database.
 
 `Screenshot of tests`
 ![](src/assets/cover.png)
