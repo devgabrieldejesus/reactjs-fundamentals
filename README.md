@@ -23,7 +23,7 @@ _Português_
 Nesse desafio, eu tinha que continuar desenvolvendo a aplicação de gestão de transações, a GoFinances.
 O Objetivo era praticar o que tinha aprendido até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
-Essa foi uma aplicação que tinha que se conectar ao meu backend do Desafio 06, e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
+Essa foi uma aplicação que tinha que se conectar ao meu backend do [Desafio 06](https://github.com/devgabrieldejesus/database-upload), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 `Captura de tela dos testes`
 ![](src/assets/cover.png)
